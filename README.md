@@ -36,5 +36,9 @@ The database was built using SQL and demonstrates skills in database design, nor
 - Project documentation with query outputs and reports
 
 ## Author
+
 Raïssa Matho Mekjele  
 Business Intelligence Analyst  
+
+LinkedIn: https://www.linkedin.com/in/ton-profil
+GitHub: https://github.com/Mamekra464  
